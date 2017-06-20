@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
 
   // input
-  entry: path.join(__dirname, 'src'),
+  entry: path.join(__dirname, 'src/index.jsx'),
 
   // output
   output: {
